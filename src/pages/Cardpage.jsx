@@ -24,7 +24,7 @@ function Cardpage() {
                 width: 350,
                 padding: 2,
                 boxShadow: 2,
-                bgcolor:'#d8d8d1',
+                bgcolor:'#dbdbdb99',
                 display:'flex'
               }}
               variant="outlined"
